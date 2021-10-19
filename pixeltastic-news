@@ -9,18 +9,15 @@ Retribtion Centre was destroyed in a GLORIOUS
 explosion and is now known as the Retribution Crater.
 However there seems to be something going on below.
 Only time will tell what is happening down there.
-
-
+\n
 Now onto a detailed changelog
-
-
+\n
 Pixeltastic 19102021
 NEW
 - Team Retribution Act 2 has started
 - You can now see an up to date (as up to date as we can)
 changelog in the main menu of the modpack.
-
-
-FIXES
-- Hopefully fixed the bug causing the server status to show as "OFFLINE"
-- Hopefully fixed the bug causing the member count to show "0/0"
+\n
+KNOWN BUGS
+- Server displays as offline on main menu
+- Member count displays as 0/0
