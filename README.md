@@ -1,15 +1,21 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a few discord bots
-  - Bit
-  - Spam Destroyer
+  - [Bit](https://bit.lockyzdev.net)
+  - [Bit: Core](https://github.com/Lockyz-Dev/bit-core)
+  - [Spam Destroyer](https://sdrevived.lockyzdev.net)
+- Other Stuff I'm working on
+  - [Dismon DB](https://www.npmjs.com/package/dismondb)
+- Games I'm working on
+  - [Table Ball](https://store.steampowered.com/app/2094090/Table_Ball/)
+  - [Other unannounced game](https://lockyzdev.net/3256-2/)
 - 🌱 I’m currently learning
-- - C#
+  - C#
   - Java
 - 🌱 I have a moderate understanding of
-- - JavaScript
+  - JavaScript
 - 📫 How to reach me:
-- - [email](mailto:dev@lockyzdev.net)
+  - [email](mailto:dev@lockyzdev.net)
   - [Discord](https://discord.gg/NgpN3YYbMM)
   - [Website](https://lockyzdev.net/)
 - 😄 Pronouns: any/all
