@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a few discord bots
-- - Bit
+  - Bit
   - Spam Destroyer
 - 🌱 I’m currently learning
 - - C#
