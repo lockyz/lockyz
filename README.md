@@ -8,7 +8,7 @@
   - [Dismon DB](https://www.npmjs.com/package/dismondb)
 - Games I'm working on
   - [Table Ball](https://store.steampowered.com/app/2094090/Table_Ball/)
-  - [Other unannounced game](https://lockyzdev.net/3256-2/)
+  - [Other unannounced game](https://lockyzdev.net/01010011-01110000-01100001-01100011-01100101/)
 - 🌱 I’m currently learning
   - C#
   - Java
