@@ -2,13 +2,13 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockyz)
 
-[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,unreal,unity,vscode,java,js,html,css,docker,ae)](https://lockyzmedia.com)
+[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,unreal,unity,vscode,java,js,html,css,docker)](https://lockyzmedia.com)
 
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,bootstrap,cs,cpp,cloudflare,bots,eclipse,gamemakerstudio,gradle)](https://lockyzmedia.com)
+[![My Skills](https://skillicons.dev/icons?i=ae,androidstudio,bootstrap,cs,cpp,cloudflare,bots,eclipse,gamemakerstudio,gradle)](https://lockyzmedia.com)
 
-[![My Skills](https://skillicons.dev/icons?i=godot,linux,md,mongodb,netlify,nginx,ps,powershell,pr,pycharm,py,raspberrypi)](https://lockyzmedia.com)
+[![My Skills](https://skillicons.dev/icons?i=godot,linux,md,mongodb,netlify,nginx,ps,powershell,pr,pycharm)](https://lockyzmedia.com)
 
-[![My Skills](https://skillicons.dev/icons?i=regex,sqlite,ubuntu,wordpress,xd)](https://lockyzmedia.com)
+[![My Skills](https://skillicons.dev/icons?i=py,raspberrypi,regex,sqlite,ubuntu,wordpress,xd)](https://lockyzmedia.com)
 
 ## Hi there 👋
 - 🌱 I’m currently learning
