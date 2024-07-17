@@ -20,7 +20,7 @@
 
 ## Projects
 ### Bit
-<img src="https://cdn.lockyzmedia.com/img/bit.png" width="40" height="40">
+<img src="https://cdn.lockyzmedia.com/img/bit.png" width="100" height="100">
 
 Bit is a Discord bot framework created to make it easier for users to host their own bots.
 
@@ -31,19 +31,29 @@ I intend to expand the bots plugin system as far as I can.
 [Click Here (GitHub)](https://github.com/Lockyz-Media/bit)
 
 ### Table Ball
-<img src="https://cdn.lockyzmedia.com/games/tableball/logos/icon-app.png" width="40" height="40">
+<img src="https://cdn.lockyzmedia.com/games/tableball/logos/icon-app.png" width="100" height="100">
 
 Table Ball by Lockyz Media is the ultimate virtual arcade game! Compete against friends or the computer in exciting matches of top-down Ping Pong. This game is perfect for players of all skill levels. Start playing today and see if you have what it takes to come out on top!
 
 [Click Here (Steam)](https://store.steampowered.com/app/2094090/Table_Ball/)
 
 ### DismonDB
-<img src="https://cdn.lockyzmedia.com/img/dismon.png" width="40" height="40">
+<img src="https://cdn.lockyzmedia.com/img/dismon.png" width="100" height="100">
 
 The DismonDB is a node.js module that allows you to show information on all the Types in the Pokemon Games.
 
-It was originally created to give me access to information the available Pokemon APIs did not contain for the use in my own Discord Bots. While not actively worked on, I have MAJOR plans for this bot.
+It was originally created to give me access to information the available Pokemon APIs did not contain for the use in my own Discord Bots. While not actively worked on, I have MAJOR plans for this.
+
 [Click Here (npm)](https://www.npmjs.com/package/dismondb)
 [Click Here (GitHub)](https://github.com/Lockyz-Media/dismondb)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lockyz-Media&repo=dismondb)](https://github.com/Lockyz-Media/dismondb)
+
+### Monsty Corp
+<img src="https://cdn.lockyzmedia.com/img/mcorp.png" width="40" height="40">
+
+A story based, puzzle game, Monsty Corp will have you exploring the facility known as “Monsty Corp”, an advanced science facility closed down due to strange occurrences.
+
+Release Date: Eventually
+
+[Click Here (Steam)](https://store.steampowered.com/app/1335580/Monsty_Corp/)
