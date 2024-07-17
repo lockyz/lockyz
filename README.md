@@ -2,8 +2,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockyz&layout=compact)
 
+[![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,nodejs,unreal,unity,vscode,java,js,html,css,docker,ae)](https://lockyzmedia.com)
 
-[![What do I do?](https://skillicons.dev?i=discordjs,nodejs,nodejs,unreal,unity,vscode,java,js,html,css,docker,ae,androidstudio,bootstrap,cs,cpp,cloudflare,bots,eclipse)](https://lockyzmedia.com)
+[![What do I do?](https://skillicons.dev?i=,androidstudio,bootstrap,cs,cpp,cloudflare,bots,eclipse)](https://lockyzmedia.com)
 
 [![What do I do?](https://skillicons.dev?i=gamemakerstudio,gradle,godot,linux,md,mongodb,netlify,nginx,ps,powershell,pr,pycharm,py,raspberrypi,regex,sqlite,ubuntu,wordpress,xd&perline=10)](https://lockyzmedia.com)
 
