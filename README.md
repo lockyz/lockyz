@@ -1,9 +1,5 @@
 [![Lockyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyz&theme=midnight-purple)](https://github.com/lockyz)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lockyz-Media)](https://github.com/Lockyz-Media)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lockyz)
-
 ## What can I do?
 
 [![My Skills](https://skillicons.dev/icons?i=discordjs,nodejs,unreal,unity,vscode,java,js,html,css,docker)](https://lockyzmedia.com)
