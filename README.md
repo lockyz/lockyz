@@ -21,7 +21,7 @@
 - ⚡ Fun fact: I did gymnastics as a child.
 
 ## Projects
-### <img src="https://cdn.lockyzmedia.com/img/bit.png" width="50" height="50"> Bit
+### Bit
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -38,7 +38,7 @@ I intend to expand the bots plugin system as far as I can.
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lockyz-Media&repo=bit)](https://github.com/Lockyz-Media/bit)
 
-### <img src="https://cdn.lockyzmedia.com/games/tableball/logos/icon-app.png" width="50" height="50"> Table Ball
+### Table Ball
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)
@@ -50,7 +50,7 @@ Table Ball by Lockyz Media is the ultimate virtual arcade game! Compete against 
 #### Links
 [![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)](https://store.steampowered.com/app/2094090/Table_Ball/)
 
-### <img src="https://cdn.lockyzmedia.com/img/dismon.png" width="50" height="50"> DismonDB
+### DismonDB
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -67,7 +67,7 @@ It was originally created to give me access to information the available Pokemon
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Lockyz-Media&repo=dismondb)](https://github.com/Lockyz-Media/dismondb)
 
-### <img src="https://cdn.lockyzmedia.com/img/mcorp.png" width="50" height="50"> Monsty Corp
+### Monsty Corp
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
