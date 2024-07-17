@@ -1,3 +1,7 @@
+[![Discord Presence](https://lanyard.cnrad.dev/api/835394949612175380)](https://discord.com/users/835394949612175380)
+
+[![Lockyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyz)](https://github.com/lockyz)
+
 ## Hi there 👋
 - 🌱 I’m currently learning
   - C#
