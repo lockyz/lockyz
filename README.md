@@ -1,6 +1,5 @@
-[![Discord Presence](https://lanyard.cnrad.dev/api/835394949612175380)](https://discord.com/users/835394949612175380)
+[![Discord Presence](https://lanyard.cnrad.dev/api/835394949612175380)](https://discord.com/users/835394949612175380)    [![Lockyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyz&theme=midnight-purple)](https://github.com/lockyz)
 
-[![Lockyz's GitHub stats](https://github-readme-stats.vercel.app/api?username=lockyz&theme=midnight-purple)](https://github.com/lockyz)
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/discordjs/discordjs-original.svg" width="40" height="40"/>
 
 ## Hi there 👋
